@@ -31,4 +31,4 @@ python3 ensemble.py
 
 Now, you get a `src/ens.csv`. Rename it with `CoLA.tsv` and submit. 
 
-[<img src = "https://raw.githubusercontent.com/517030910405/Electra-Ensembler/master/test_result/gluebenchmark_submission.png?token=AKB52JPTQS53QBCVVJVW3PS66CIHC">](https://github.com/517030910405/Electra-Ensembler/tree/master/test_result)
+[<img src = "https://github.com/517030910405/Electra-Ensembler/raw/master/test_result/gluebenchmark_submission.png">](https://github.com/517030910405/Electra-Ensembler/tree/master/test_result)
