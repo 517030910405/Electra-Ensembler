@@ -1,5 +1,9 @@
 # [Electra-Ensembler](https://github.com/517030910405/Electra-Ensembler)
 
+This repo is a single-task fine-tuning focused on CoLA Glue. It uses the Electra-Large as its base models and ensemble them with a newly-proposed ensemble method. It achieves 62.9 in CoLA defeating the Electra-Large. 
+
+For detailed information, please see the paper. 
+
 ## Environment Requirements
 
 [Transformers Lib](https://github.com/huggingface/transformers) and its sub-models. 
@@ -13,7 +17,7 @@ cd src
 bash ./run_many.sh
 ```
 
-The new evaluation and output will be added into `allans` and `alleval`
+The new evaluation and output will be added into `src/allans` and `src/alleval`
 
 See the hyper-params in `src/run.sh` 
 
