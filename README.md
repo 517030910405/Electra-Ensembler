@@ -27,4 +27,4 @@ python3 ensemble.py
 
 Now, you get a `src/ens.csv`. Rename it with `CoLA.tsv` and submit. 
 
-[<img src = "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">](google.com)
+[<img src = "https://raw.githubusercontent.com/517030910405/Electra-Ensembler/master/test_result/gluebenchmark_submission.png">](https://github.com/517030910405/Electra-Ensembler/tree/master/test_result)
